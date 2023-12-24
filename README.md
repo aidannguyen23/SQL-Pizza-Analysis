@@ -5,7 +5,7 @@ This repository contains SQL queries and analysis on a dataset obtained from Kag
 ## Dataset Details
 
 - **Title:** Pizza Restaurants and the Pizza They Sell
-- **Source:** Datafiniti's Business Database on Kaggle / https://www.kaggle.com/datasets/datafiniti/pizza-restaurants-and-the-pizza-they-sell?resource=download
+- **Source:** https://www.kaggle.com/datasets/datafiniti/pizza-restaurants-and-the-pizza-they-sell?resource=download
 - **Contents:** Information about pizzas from multiple restaurants, including category, name, address, city, state, menu details, price range, and more.
 
 Note: This repository contains a subset of the complete dataset available through Datafiniti.
