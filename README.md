@@ -21,16 +21,16 @@ Note: This repository contains a subset of the complete dataset available throug
   - 'Astoria': $12.5
   - 'Berthoud': $12.5
   - 'Califon': $12.5
-  - ... (additional cities with prices)
 
-- **Most Expensive Cities**:
+- **Most Expensive Cities for Pizza**:
   - 'Lake Ozark': $263.5
   - 'Allentown': $52.5
   - 'Arvada': $52.5
   - 'Campbell Hall': $52.5
   - 'Canonsburg': $52.5
-  - ... (additional cities with prices)
 
+  Upon further inspection, Lake Ozark has only one listed establishment serving pizza, and it is at a hotel/spa, resulting in the skewed pricing.
+  
 #### Median Price of a Cheese Pizza across the U.S.
 - **Median Price for Large Cheese Pizza**: $10.99
 
