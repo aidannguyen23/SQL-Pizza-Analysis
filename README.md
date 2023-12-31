@@ -12,20 +12,47 @@ Note: This repository contains a subset of the complete dataset available throug
 
 ## SQL Analysis
 
-### Queries Executed:
+### Analysis Results
 
-1. **Least and Most Expensive Cities for Pizza:**
-   - Identifies the least and most expensive cities for pizza based on the average restaurant prices.
+#### Least and Most Expensive Cities for Pizza
+- **Least Expensive Cities**:
+  - 'Addison': $12.5
+  - 'Alameda': $12.5
+  - 'Astoria': $12.5
+  - 'Berthoud': $12.5
+  - 'Califon': $12.5
+  - ... (additional cities with prices)
 
-2. **Median Price of a Cheese Pizza across the U.S.:**
-   - Determines the median price of cheese pizza across the entire dataset.
+- **Most Expensive Cities**:
+  - 'Lake Ozark': $263.5
+  - 'Allentown': $52.5
+  - 'Arvada': $52.5
+  - 'Campbell Hall': $52.5
+  - 'Canonsburg': $52.5
+  - ... (additional cities with prices)
 
-3. **Top Five Most Common Types of Dishes:**
-   - Finds the top five most common types of dishes among the listed restaurants.
+#### Median Price of a Cheese Pizza across the U.S.
+- **Median Price for Large Cheese Pizza**: $10.99
 
-4. **Average Pizza Menu Prices Change Over the Years in New York:**
-   - Analyzes the change in average pizza menu prices over the years for restaurants in New York.
+#### Top Five Most Common Types of Dishes
+- **Common Types of Dishes**:
+  - 'Cheese Pizza': 136 occurrences
+  - 'White Pizza': 75 occurrences
+  - 'Margherita Pizza': 63 occurrences
+  - 'Pizza': 62 occurrences
+  - 'Hawaiian Pizza': 54 occurrences
 
-5. **City with the Highest Number of Bars Selling Pizza:**
-   - Identifies the city with the highest number of bars selling pizza.
+#### Average Pizza Menu Prices Change Over the Years in New York
+- **Average Menu Prices**:
+  - **2015**: $12.66
+  - **2016**: $13.82
+  - **2017**: $26.74
+
+#### City with the Highest Number of Bars Selling Pizza
+- **Cities with Bars Selling Pizza**:
+  - 'Bartow': 20 bars
+  - 'Pittsburgh': 14 bars
+  - 'Los Angeles': 13 bars
+  - 'Alameda': 13 bars
+  - 'Port Jefferson': 13 bars
 
